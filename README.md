@@ -35,7 +35,7 @@ Beautiful Weather Checking App Using Javascript API
 
 ## :camera: Screenshots
 
-![weather-app](https://user-images.githubusercontent.com/104723233/236594661-2b48b9ea-31bb-4a80-a1dd-e73ad14d45e1.jpg)
+![weather-app](https://user-images.githubusercontent.com/104723233/236596279-de51881b-4a3a-415d-a8c4-36a86b2bcc6b.png)
 
 
 <!-- Features -->
